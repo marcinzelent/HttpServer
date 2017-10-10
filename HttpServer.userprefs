@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{E9A47513-1D71-4E5D-813C-05B757A2BDD3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HttpServer/Program.cs">
+    <Files>
+      <File FileName="HttpServer/Program.cs" Line="48" Column="36" />
+      <File FileName="HttpServer/htdocs/index.html" Line="10" Column="22" />
+      <File FileName="HttpServer/htdocs/style.css" Line="1" Column="1" />
+      <File FileName="HttpServer/htdocs/script.js" Line="1" Column="20" />
+      <File FileName="HttpServer/htdocs/404.html" Line="7" Column="7" />
+      <File FileName="HttpServer/htdocs/500.html" Line="8" Column="109" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HttpServer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

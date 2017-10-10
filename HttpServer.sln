@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpServer", "HttpServer\HttpServer.csproj", "{E9A47513-1D71-4E5D-813C-05B757A2BDD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A47513-1D71-4E5D-813C-05B757A2BDD3}.Debug|x86.ActiveCfg = Debug|x86
+		{E9A47513-1D71-4E5D-813C-05B757A2BDD3}.Debug|x86.Build.0 = Debug|x86
+		{E9A47513-1D71-4E5D-813C-05B757A2BDD3}.Release|x86.ActiveCfg = Release|x86
+		{E9A47513-1D71-4E5D-813C-05B757A2BDD3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

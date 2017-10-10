@@ -1,0 +1,5 @@
+/home/marcin/MonoDevelop Projects/HttpServer/HttpServer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/marcin/MonoDevelop Projects/HttpServer/HttpServer/bin/Debug/HttpServer.pdb
+/home/marcin/MonoDevelop Projects/HttpServer/HttpServer/bin/Debug/HttpServer.exe
+/home/marcin/MonoDevelop Projects/HttpServer/HttpServer/obj/x86/Debug/HttpServer.exe
+/home/marcin/MonoDevelop Projects/HttpServer/HttpServer/obj/x86/Debug/HttpServer.pdb
